@@ -1,0 +1,4 @@
+D:\WWW\HotelManager\HotelManagerModels\bin\Debug\HotelManagerModels.dll
+D:\WWW\HotelManager\HotelManagerModels\bin\Debug\HotelManagerModels.pdb
+D:\WWW\HotelManager\HotelManagerModels\obj\Debug\HotelManagerModels.dll
+D:\WWW\HotelManager\HotelManagerModels\obj\Debug\HotelManagerModels.pdb

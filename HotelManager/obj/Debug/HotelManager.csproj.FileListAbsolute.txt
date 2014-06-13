@@ -1,0 +1,41 @@
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerBLL.dll
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerModels.dll
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerDALFactory.dll
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerIDAL.dll
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerDAL.dll
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerBLL.pdb
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerModels.pdb
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerDALFactory.pdb
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerIDAL.pdb
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\bin\Debug\HotelManagerDAL.pdb
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.csprojResolveAssemblyReference.cache
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.MainForm.resources
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.RoomForm.resources
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.RoomTypeForm.resources
+C:\Users\nebel\Downloads\51CTO下载-酒店管理系统 C# 三层架构及抽象工厂 winform程序\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.Cache
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManagerBLL.dll
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManagerModels.dll
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManagerDAL.dll
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManagerBLL.pdb
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManagerModels.pdb
+D:\WWW\HotelManager\HotelManager\bin\Debug\HotelManagerDAL.pdb
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.csprojResolveAssemblyReference.cache
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.LoginForm.resources
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.MainForm.resources
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.RoomDetailForm.resources
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.RoomForm.resources
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.frmRoomTypeDetail.resources
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.RoomTypeForm.resources
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.Cache
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+D:\WWW\HotelManager\HotelManager\obj\Debug\HotelManager.pdb

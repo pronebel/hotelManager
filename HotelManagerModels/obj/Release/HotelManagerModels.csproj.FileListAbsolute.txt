@@ -1,0 +1,5 @@
+D:\WWW\HotelManager\HotelManagerModels\bin\Release\HotelManagerModels.dll
+D:\WWW\HotelManager\HotelManagerModels\bin\Release\HotelManagerModels.pdb
+D:\WWW\HotelManager\HotelManagerModels\obj\Release\HotelManagerModels.dll
+D:\WWW\HotelManager\HotelManagerModels\obj\Release\HotelManagerModels.pdb
+D:\WWW\HotelManager\HotelManagerModels\obj\Release\HotelManagerModels.csprojResolveAssemblyReference.cache

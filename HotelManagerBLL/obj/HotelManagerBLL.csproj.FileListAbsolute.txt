@@ -1,0 +1,9 @@
+D:\WWW\HotelManager\HotelManagerBLL\bin\Debug\HotelManagerBLL.dll
+D:\WWW\HotelManager\HotelManagerBLL\bin\Debug\HotelManagerBLL.pdb
+D:\WWW\HotelManager\HotelManagerBLL\bin\Debug\HotelManagerDAL.dll
+D:\WWW\HotelManager\HotelManagerBLL\bin\Debug\HotelManagerModels.dll
+D:\WWW\HotelManager\HotelManagerBLL\bin\Debug\HotelManagerModels.pdb
+D:\WWW\HotelManager\HotelManagerBLL\bin\Debug\HotelManagerDAL.pdb
+D:\WWW\HotelManager\HotelManagerBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\WWW\HotelManager\HotelManagerBLL\obj\Debug\HotelManagerBLL.dll
+D:\WWW\HotelManager\HotelManagerBLL\obj\Debug\HotelManagerBLL.pdb

@@ -1,0 +1,7 @@
+D:\WWW\HotelManager\HotelManagerDAL\bin\Debug\HotelManagerDAL.dll
+D:\WWW\HotelManager\HotelManagerDAL\bin\Debug\HotelManagerDAL.pdb
+D:\WWW\HotelManager\HotelManagerDAL\bin\Debug\HotelManagerModels.dll
+D:\WWW\HotelManager\HotelManagerDAL\bin\Debug\HotelManagerModels.pdb
+D:\WWW\HotelManager\HotelManagerDAL\obj\Debug\HotelManagerDAL.csprojResolveAssemblyReference.cache
+D:\WWW\HotelManager\HotelManagerDAL\obj\Debug\HotelManagerDAL.dll
+D:\WWW\HotelManager\HotelManagerDAL\obj\Debug\HotelManagerDAL.pdb
